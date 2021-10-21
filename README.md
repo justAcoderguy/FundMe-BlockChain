@@ -23,7 +23,8 @@ We use chainlink decentralized oracle to get the ETHUSD conversion rate to check
   
 ## Screenshot
 
-![App Screenshot](../FundMe.png)
+![App Screenshot](https://github.com/justAcoderguy/FundMe-BlockChain/blob/main/FundeMe.png)
+
 
   
 
